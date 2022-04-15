@@ -14,5 +14,5 @@ if (numberB > numberA)
 }
 else
 {
-Console.WriteLine ($"Максимальное число {numberA}");    
+    Console.WriteLine ($"Максимальное число {numberA}");    
 }
